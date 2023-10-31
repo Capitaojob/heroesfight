@@ -1,0 +1,23 @@
+.hero__card {
+  max-width: 200px;
+  min-height: 367px;
+  max-height: 367px;
+  cursor: pointer;
+}
+
+.hero__card:hover {
+  transform: scale(1.05);
+}
+
+.hero__card img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+@media screen and (max-width: 768px) {
+  .hero__card {
+    max-width: 150px;
+    min-height: 367px;
+    max-height: 367px;
+  }
+}

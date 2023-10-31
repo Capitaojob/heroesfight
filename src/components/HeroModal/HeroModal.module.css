@@ -1,0 +1,23 @@
+.full__width__modal {
+  width: 100% !important;
+}
+
+@media screen and (max-width: 900px) {
+  .heroes__container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .heroes__container > div {
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .heroes__container div img {
+    max-width: 40%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+}

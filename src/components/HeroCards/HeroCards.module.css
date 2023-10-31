@@ -1,0 +1,14 @@
+.heroes__section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 50px;
+}
+
+.heroes__section .show__more__button {
+  min-height: 367px;
+  flex-grow: 1;
+  border: 1px solid var(--white);
+  background-color: var(--accent);
+  color: var(--white);
+}
