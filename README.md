@@ -56,7 +56,7 @@ To get started with the Hero Battle App, follow these steps:
 
 ## Usage
 
-1. Launch the Heroes Battle app.
+1. Launch the Heroes Fight app.
 2. Browse through the available heroes by scrolling through the hero cards or filtering by name.
 3. Click on two hero cards to select them for a battle.
 4. A modal will appear, showing the details of the selected heroes and the winner based on their total power.
@@ -64,7 +64,7 @@ To get started with the Hero Battle App, follow these steps:
 
 ## Contributing
 
-If you'd like to contribute to the Heroes Battle, please follow these steps:
+If you'd like to contribute to the Heroes Fight, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
